@@ -16,6 +16,9 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Acknowledgments
-Special thanks to me, my technical masters and the creators of Create React App and json-server for providing the tools used in this project.
+Special thanks to me, my technical masters and the creators of Create React App and json-server for providing the tools necessary for this project
+
+bot-battlr-25gz.vercel.app
+
 
 
