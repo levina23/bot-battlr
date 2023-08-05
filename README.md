@@ -17,5 +17,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Acknowledgments
 Special thanks to me, my technical masters and the creators of Create React App and json-server for providing the tools used in this project.
-bot-battlr-d9wv7zp30-levina23.vercel.app
+
 
